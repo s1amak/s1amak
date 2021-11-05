@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s1amak
-- 👀 I’m interested in Java, Android & Pythone.
+- 👀 I’m interested in Java, Android & Python.
 - 🌱 I’m currently learning Spring freamwork & Android App developing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
